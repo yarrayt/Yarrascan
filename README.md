@@ -1,6 +1,5 @@
 ## Yarrascan:
-
-"Brahmastra" is a powerful security analysis tool inspired by the ancient Indian mythology of Lord Brahma. Just as Lord Brahma was known for his divine wisdom and knowledge, this tool embodies those qualities by offering a comprehensive range of security assessment functionalities. With its Python-based script, Brahmastra combines network scanning, web crawling, vulnerability scanning, and CMS detection capabilities. By utilizing external tools and modules, it enables users to discover social media profiles, gather information, perform SSL analysis, identify subdomains, detect vulnerabilities such as SQL injection and XSS, and much more. The tool's intuitive menu system provides an easy-to-use interface, empowering security professionals to conduct thorough security assessments and uncover potential vulnerabilities and weaknesses in target systems. Embracing the name of an ancient divine weapon, Brahmastra aims to provide security practitioners with a potent tool to safeguard modern digital environments.
+YarraScan is a powerful, terminal-based cybersecurity toolkit crafted for Kali Linux professionals, ethical hackers, and students. It integrates over 50+ industry-standard tools like SQLMap, Nmap, XSStrike, Gobuster, and more into a seamless, menu-driven interface that simplifies complex security tasks. With features like optional .txt output logging, a vibrant orange ASCII banner, and a logically structured flow, it balances ease of use with professional-level control. Whether you're performing reconnaissance, exploitation, or OSINT analysis, YarraScan speeds up the process without sacrificing precision. Built with speed, clarity, and real-world practicality in mind, it serves as the perfect Swiss Army knife for penetration testers and cybersecurity learners alike. Developed with dedication by Raghav, YarraScan is a sharp, reliable, and efficient tool for both learning and live testing environments.
 
 ## 🛠️ Installation:
 
@@ -54,7 +53,7 @@ sudo ./install_tools.sh
 
 💣 Exploitation Tools Launcher – Directly access Metasploit, commix, BeEF, and searchsploit from the menu for post-recon attacks.
 
-These are the main features of the Brahmastra tool, offering a range of functionalities for reconnaissance, vulnerability assessment, and security testing.
+These are the main features of the Yarrascan tool, offering a range of functionalities for reconnaissance, vulnerability assessment, and security testing.
 
 
 ## ⁉️ Usage:
