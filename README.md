@@ -83,5 +83,3 @@ Project Maintainer: [Raghav Dixit](https://github.com/yarrayt/)
 
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/raghav-dixit-ba8265247/)
-<img src="C:\Users\ragha\Yarrascan\assets\img\TryHackMe" alt="TryHackMe">
-<img src="C:\Users\ragha\Yarrascan\assets\img\Portswiger" alt="Portswiger">
