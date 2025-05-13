@@ -1,0 +1,11 @@
+
+pyfiglet
+
+
+# Add these to kali
+sudo apt install -y \
+  nmap sqlmap ffuf wfuzz gobuster dirsearch dirbuster \
+  nikto zaproxy burpsuite john hydra hashcat metasploit-framework \
+  theharvester recon-ng sublist3r amass dnsrecon dnsenum dnsmap \
+  sherlock holehe xsstrike dalfox jsql spiderfoot zaproxy \
+  social-analyzer beef-xss commix
